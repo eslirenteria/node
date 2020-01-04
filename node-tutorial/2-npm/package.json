@@ -1,0 +1,21 @@
+{
+  "name": "2-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test",
+    "your-custom-script": "echo npm"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+  
+}

@@ -1,0 +1,13 @@
+{
+  "name": "9-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test-setup.spec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "test-unit": "NODE_ENV=test mocha '/**/*.spec.js'"
+}
