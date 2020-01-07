@@ -1,0 +1,21 @@
+{
+  "name": "hello-mars",
+  "version": "1.0.0-beta.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "underscore": "^1.9.2"
+  },
+  "devDependencies": {
+    "jshint": "^2.8.0",
+    "karma": "^4.4.1"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "author": "Jossue Renteria",
+  "license": "ISC"
+}
